@@ -95,7 +95,11 @@ Now, you have two options:
 * Run the project.
 
 ##### Second option:
-* Clone the repository: git@github.com:ZoharSimhon/OOP_Ex1.git
+* Clone the repository:
+```
+git clone https://github.com/LinorRonen/OOP.Assignment1.git
+```
+
 * open the project (in IntelliJ) and then follow these steps:
 1. press build
 2. Rebuild Project
